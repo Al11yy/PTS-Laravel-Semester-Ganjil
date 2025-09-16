@@ -26,6 +26,9 @@ Dilengkapi dengan fitur **CRUD Produk**, **Form Peminjaman**, serta sistem **App
 ---
 
 
+## Instalasi
+```bash
+
 # 1️⃣ Clone repo
 git clone https://github.com/Al11yy/PTS-Laravel-Semester-Ganjil.git
 cd onlycars
@@ -40,8 +43,3 @@ php artisan key:generate
 
 # 4️⃣ Migrasi database
 php artisan migrate
-
-# 5️⃣ Jalankan server
-php artisan serve
-npm run dev
-
